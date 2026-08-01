@@ -28,4 +28,4 @@ python3 secure_app.py
 
 <br>
 
-<b>[&copy; Ahndre Walters](https://github.com/AhndreWalters/CodeAlpha_SecureCodingReview/blob/main/LICENSE)</b>
+<b>[&copy; Ahndre Walters](https://github.com/AhndreWalters/CodeAlpha_Cybersecurity-Internship-Tasks/blob/main/LICENSE)</b>
