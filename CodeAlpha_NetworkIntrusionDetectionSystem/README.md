@@ -39,4 +39,4 @@ sudo cat /var/log/snort/alert
 
 <br>
 
-[&copy; Ahndre Walters](https://github.com/AhndreWalters/CodeAlpha_NetworkIntrusionDetectionSystem/blob/main/LICENSE)
+<b>[&copy; Ahndre Walters](https://github.com/AhndreWalters/CodeAlpha_Cybersecurity-Internship-Tasks/blob/main/LICENSE)</b>
