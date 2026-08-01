@@ -44,4 +44,4 @@ Payload (first 50 bytes): b'\x17\x03\x03\x00N\x00\x00...'
 ============================================================
 ```
 
-<b>[&copy; 2026 Ahndre Walters](https://github.com/AhndreWalters/CodeAlpha_BasicNetworkSniffer/blob/main/LICENSE)</b>
+<b>[&copy; 2026 Ahndre Walters](https://github.com/AhndreWalters/CodeAlpha_Cybersecurity-Internship-Tasks/blob/main/LICENSE)</b>
