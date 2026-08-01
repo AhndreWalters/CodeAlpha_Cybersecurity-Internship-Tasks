@@ -22,4 +22,4 @@ The presentation covers:
 
 <br>
 
-<b>[&copy; 2026 Ahndre Walters](https://github.com/AhndreWalters/CodeAlpha_PhishingAwarenessTraining/blob/main/LICENSE)</b>
+<b>[&copy; 2026 Ahndre Walters](https://github.com/AhndreWalters/CodeAlpha_Cybersecurity-Internship-Tasks/blob/main/LICENSE)</b>
