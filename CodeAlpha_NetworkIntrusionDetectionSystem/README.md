@@ -1,6 +1,6 @@
 # Network Intrusion Detection System
 
-Network Intrusion Detection System (NIDS) set up with Snort as Task 4 for the CodeAlpha Cyber Security Internship. This system monitors network traffic in real-time, detects suspicious activity using custom rules for ICMP ping, port scans, and SSH brute force attempts, and implements automated response mechanisms to block malicious IP addresses. Includes configuration files, custom rules, and response scripts for continuous threat monitoring.
+A Network Intrusion Detection System (NIDS) built with Suricata as Task 4 for the CodeAlpha Cyber Security Internship. This system monitors network traffic in real-time, detects suspicious activity using custom rules, and implements automated response mechanisms to block potential threats.
 
 ### Features
 
@@ -9,22 +9,22 @@ Network Intrusion Detection System (NIDS) set up with Snort as Task 4 for the Co
 - Automated response (IP blocking)
 - Alert logging
 
+### Rules Included
+- **ICMP Ping Detection** - Detects ping requests
+- **Port Scan Detection** - Detects port scanning activity
+- **SSH Brute Force Detection** - Detects multiple SSH login attempts
+
 ### Installation
 
 ```bash
 sudo apt update
-sudo apt install snort -y
+sudo apt install suricata -y
 ```
 
-### Rules Included
-- ICMP Ping Detection
-- Port Scan Detection
-- SSH Brute Force Detection
-
 ### Usage
-#### Start Snort
+#### Start Suricata
 ```bash
-sudo snort -i eth0 -c /etc/snort/snort.conf -A console
+sudo suricata -i eth0 -c /etc/suricata/suricata.yaml
 ```
 
 #### Run Response Script
@@ -34,9 +34,9 @@ sudo ./respond.sh
 
 #### View Alerts
 ```bash
-sudo cat /var/log/snort/alert
+sudo tail -f /var/log/suricata/fast.log
 ```
 
-<br>
+---
 
 <b>[&copy; Ahndre Walters](https://github.com/AhndreWalters/CodeAlpha_Cybersecurity-Internship-Tasks/blob/main/LICENSE)</b>
