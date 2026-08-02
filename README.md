@@ -23,4 +23,10 @@ A network intrusion detection system set up with **Suricata** that monitors netw
 
 ---
 
+<p align="center">
+<img width="1920" title="CodeAlpha Internship Offer Letter" alt="CodeAlpha Internship Offer Letter" src="https://github.com/user-attachments/assets/43364d6c-a066-41d8-8dbe-c4a30fa133b0" />
+</p>
+
+---
+
 <b>[&copy; 2026 Ahndre Walters](https://github.com/AhndreWalters/CodeAlpha_Cybersecurity-Internship-Tasks/blob/main/LICENSE) | CodeAlpha Cyber Security Intern</b>
