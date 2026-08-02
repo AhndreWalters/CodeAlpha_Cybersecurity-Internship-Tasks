@@ -14,7 +14,7 @@ A comprehensive training presentation on phishing attacks designed to educate in
 A security code audit of a Python application that identifies and fixes three critical vulnerabilities: hardcoded credentials, SQL injection, and command injection. Includes the vulnerable application, the secure version with all vulnerabilities patched, and a detailed security review report with recommendations for secure coding practices.
 
 #### Task 4: [Network Intrusion Detection System (NIDS)](https://github.com/AhndreWalters/CodeAlpha_Cybersecurity-Internship-Tasks/tree/main/CodeAlpha_NetworkIntrusionDetectionSystem)
-A network intrusion detection system set up with Snort that monitors network traffic in real-time. Includes custom detection rules for ICMP ping, port scans, and SSH brute force attacks, along with an automated response script that blocks malicious IP addresses. Demonstrates practical threat detection and response capabilities.
+A network intrusion detection system set up with **Suricata** that monitors network traffic in real-time. Includes custom detection rules for ICMP ping, port scans, and SSH brute force attacks, along with an automated response script that blocks malicious IP addresses. Demonstrates practical threat detection and response capabilities.
 
 ---
 
